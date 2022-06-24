@@ -106,13 +106,13 @@ substitutions:
   sun_active:       "false"
   
   # Höhen/Breitengrad für Sonnenstandsermittlung
-  latitude: "51.138374°"
-  longitude: "7.185790°"
+  latitude: "50.35347°"
+  longitude: "7.64325°"
 
 
   # WLAN Zugangsdaten
-  wifi_ssid:                 "12345678" #!secret WLanSSID
-  wifi_password:             "12345678" #!secret WLanPassword
+  wifi_ssid:      !secret wifi_ssid
+  wifi_password:  !secret wifi_password
 
 # -------------------------------------------------------------
 # -------------------------------------------------------------
