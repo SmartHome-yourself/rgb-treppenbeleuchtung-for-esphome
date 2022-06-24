@@ -4,6 +4,11 @@
 [![RGB-Treppenbeleuchtung Standalone](http://img.youtube.com/vi/RzkHVJpzZmQ/0.jpg)](https://www.youtube.com/watch?v=RzkHVJpzZmQ "RGB Treppenbeleuchtung Standalone")
 
 
+## Anleitung
+Eine ausführliche Anleitung des Projektes findet Ihr unter:  
+https://smarthomeyourself.de/rgb-treppenbeleuchtung-standalone-jetzt-auch-ohne-home-assistant/
+<br/>  
+
 ## Verwendete Bauteile:
 **NodeMCU:** https://amzn.to/3xMmppB *  
 **Bewegungsmelder:** https://amzn.to/2PTrbAI *  
