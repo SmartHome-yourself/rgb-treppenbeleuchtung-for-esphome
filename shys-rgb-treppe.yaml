@@ -14,13 +14,13 @@ substitutions:
   #   Pin-Belegung
   # ------------------
   lightlevel_pin:            A0
-  pir_down_pin:              D8
+  pir_down_pin:              D5
   pir_up_pin:                D7
   led_pin:                   D6
   
   statusled_pir_up_pin:      D1
   statusled_pir_down_pin:    D2
-  statusled_light_pin:       D5
+  statusled_light_pin:       D8
 
 
 
