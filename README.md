@@ -1,12 +1,12 @@
 # RGB Treppenbeleuchtung mit ESPHome (Auch ohne Home Assistant nutzbar!)
-
-DEPRECATED!
-Projekt wird ab sofort in der SHYS-Collection weiter gepflegt:
-https://www.smarthomeyourself.de/diy-collections/hardware/hardware-rgb-led-treppe
-
-bzw.
-https://github.com/SmartHome-yourself/shys-collection/tree/main/templates/hardware/rgb-led-treppe
-
+  
+# DEPRECATED!  
+Projekt wird ab sofort in der SHYS-Collection weiter gepflegt:  
+https://www.smarthomeyourself.de/diy-collections/hardware/hardware-rgb-led-treppe  
+  
+bzw.  
+https://github.com/SmartHome-yourself/shys-collection/tree/main/templates/hardware/rgb-led-treppe  
+  
 ### Livestream über den Umbau zur Standalone Variante mit Offline-Automatisierungen  
 [![RGB-Treppenbeleuchtung Standalone](http://img.youtube.com/vi/RzkHVJpzZmQ/0.jpg)](https://www.youtube.com/watch?v=RzkHVJpzZmQ "RGB Treppenbeleuchtung Standalone")
 
